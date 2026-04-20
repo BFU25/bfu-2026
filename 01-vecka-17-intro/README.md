@@ -19,3 +19,6 @@
 ## Resurser
 
 - [Get started with Visual Studio Code](https://code.visualstudio.com/docs/getstarted/getting-started)
+- [Git and GitHub Introduction](https://www.w3schools.com/git/git_intro.asp)
+- [Git & GitHub Crash Course 2025](https://www.youtube.com/watch?v=vA5TTz6BXhY)
+- [How to get started with VS Code](https://www.youtube.com/watch?v=EUJlVYggR1Y)
