@@ -18,7 +18,7 @@
 
 ## Resurser
 
-### Lasresurser
+### Läsresurser
 
 - [Get started with Visual Studio Code](https://code.visualstudio.com/docs/getstarted/getting-started)
 - [Git and GitHub Introduction](https://www.w3schools.com/git/git_intro.asp)
