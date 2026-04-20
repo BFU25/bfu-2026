@@ -1,30 +1,22 @@
-# Vecka 17 - Intro
+# Vecka 17 - Introduktion och Verktyg
 
-## Mål
+## Mål för veckan
+- Förstå kursens upplägg och vad webbutveckling innebär.
+- Installera de två viktigaste programmen på din dator (Chrome och VS Code).
+- Skapa ditt konto för kodlagring (GitHub).
 
-- Komma igang med kursens verktyg och arbetsflode.
-- Installera och oppna Visual Studio Code.
-- Forsta hur kursrepon ar strukturerat och hur ni navigerar i mapparna.
+## Lektionskod & Projekt
+- Inget kodbaserat projekt denna vecka. 
+- Mappen `lektionskod/` är tom just nu, den finns där för att strukturen ska vara likadan kommande veckor.
+- Vårt enda fokus är onboarding och att få in rätt program på datorn!
 
-## Lektionskod (Copy-Paste)
+## Ditt uppdrag (Självstudier)
+Bocka av dessa tre steg i lugn och ro innan nästa vecka:
 
-- Denna vecka har vi inga kodlektioner.
-- Mappen `lektionskod/` finns for att strukturen ska vara konsekvent mellan veckorna.
+1. **Installera webbläsaren Chrome** (om du inte redan har den). Det är i Chrome vi kommer att testa och felsöka all vår kod.
+2. **Installera VS Code.** Gå till [code.visualstudio.com](https://code.visualstudio.com/), ladda ner och installera. Du behöver *inte* ladda ner några tillägg (extensions) eller ändra några inställningar ännu. Bara få in programmet på datorn!
+3. **Skapa ett GitHub-konto.** Gå till [github.com](https://github.com/) och skapa ett gratis konto. Använd en seriös mejladress och ett vettigt användarnamn (detta blir ditt framtida CV i branschen).
 
-## Veckans Projekt
+*(Frivillig introduktionsvideo: Om du vill ha en kort guide till hur VS Code ser ut när du har öppnat det, kika på [How to get started with VS Code](https://www.youtube.com/watch?v=EUJlVYggR1Y))*
 
-- Inget kodbaserat projekt denna vecka.
-- Fokus ar onboarding, installationer och att komma igang med utvecklingsmiljon.
-
-## Resurser
-
-### Läsresurser
-
-- [Get started with Visual Studio Code](https://code.visualstudio.com/docs/getstarted/getting-started)
-- [Git and GitHub Introduction](https://www.w3schools.com/git/git_intro.asp)
-- [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord)
-
-### Videoresurser
-
-- [Git & GitHub Crash Course 2025](https://www.youtube.com/watch?v=vA5TTz6BXhY)
-- [How to get started with VS Code](https://www.youtube.com/watch?v=EUJlVYggR1Y)
+💡 **Fastnar du med någon installation?** Skriv inte bara "det funkar inte". Ta en skärmdump på var du har fastnat och ställ en fråga i vår Discord-kanal så hjälps vi åt!
