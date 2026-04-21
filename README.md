@@ -23,6 +23,15 @@ Välkommen till kursrepo för **BFU-2026**. Här samlar vi lektionskod, veckoupp
 | v23 | API och async | `07-vecka-23-api-async` |
 | v24 | Examination | `08-vecka-24-examination` |
 
+## Lektionsinspelningar
+
+Samlade länkar till inspelningar för enkel åtkomst (utöver Discord).
+
+### BFU Introduktion
+
+- [Del 1](https://zocom-my.sharepoint.com/:v:/g/personal/linus_ilbratt_zocom_se/IQCWho_dOER6QLSeYEUYrhcnAYkggxU2jiR6VlaZGJpP-G4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ujzXGE)
+- [Del 2](https://zocom-my.sharepoint.com/:v:/g/personal/linus_ilbratt_zocom_se/IQCtXwqD_mAcQaAZYbs2zmdOAQOezqBNRFXHyrwmZPOdQjw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4Ylah4)
+
 ## Snabbnavigering
 
 - [Vecka 17 - Intro](./01-vecka-17-intro/README.md)

@@ -20,3 +20,9 @@ Bocka av dessa tre steg i lugn och ro innan nästa vecka:
 *(Frivillig introduktionsvideo: Om du vill ha en kort guide till hur VS Code ser ut när du har öppnat det, kika på [How to get started with VS Code](https://www.youtube.com/watch?v=EUJlVYggR1Y))*
 
 💡 **Fastnar du med någon installation?** Skriv inte bara "det funkar inte". Ta en skärmdump på var du har fastnat och ställ en fråga i vår Discord-kanal så hjälps vi åt!
+
+## Resurser
+
+### Läsresurser
+
+- [BFU · Teori – Webben, VS Code, Git & GitHub](https://iridescent-sherbet-fea35c.netlify.app/presentation/bfu-intro/)
