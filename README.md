@@ -1,16 +1,16 @@
 # BFU-2026
 
-Valkommen till kursrepo for **BFU-2026**. Har samlar vi lektionskod, veckouppgifter, projekt och resurser vecka for vecka.
+Välkommen till kursrepo för **BFU-2026**. Här samlar vi lektionskod, veckouppgifter, projekt och resurser vecka för vecka.
 
-## Kursens mal
+## Kursens mål
 
 - Bygga stabil grund inom webbutveckling (HTML, CSS, JavaScript).
-- Forsta logik, datastrukturer och DOM-hantering i JavaScript.
+- Förstå logik, datastrukturer och DOM-hantering i JavaScript.
 - Arbeta med API:er och asynkron programmering.
-- Trana pa att strukturera kod, felsoka och leverera mindre projekt.
-- Forbereda examination med tydlig dokumentation och arbetsflode.
+- Träna på att strukturera kod, felsöka och leverera mindre projekt.
+- Förbereda examination med tydlig dokumentation och arbetsflöde.
 
-## Kursupplagg vecka for vecka
+## Kursupplägg vecka för vecka
 
 | Vecka | Tema | Mapp |
 | --- | --- | --- |
