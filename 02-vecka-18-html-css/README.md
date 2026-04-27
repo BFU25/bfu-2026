@@ -4,6 +4,10 @@
 
 - Skriv veckans mål och fokusområden här.
 
+## Material
+
+- [Semantisk HTML](https://vimeo.com/manage/videos/927465231/13a96f7e8e)
+
 ## Lektionskod (Copy-Paste)
 
 - Se filer i `lektionskod/`.
