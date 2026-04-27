@@ -2,7 +2,7 @@
 
 ## Mål
 
-- Skriv veckans mål och fokusområden här.
+- Veckans mål är grunder i HTML och CSS
 
 ## Material
 
