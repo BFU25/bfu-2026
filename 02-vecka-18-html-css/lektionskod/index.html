@@ -1,1 +1,66 @@
 
+<!DOCTYPE html>
+<html lang="sv">
+
+<head>
+    <!-- Metadata = information om sidan (visas inte på sidan) -->
+    <meta charset="UTF-8">
+    <!-- Gör att sidan anpassar sig till mobil och olika skärmstorlekar -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Titeln som syns i webbläsarens flik -->
+    <title>Min första sida</title>
+</head>
+
+<body>    
+    <!--
+        CHEAT SHEET: Vanliga HTML-taggar
+        h1-h6  = rubriker (h1 viktigast)
+        p      = paragraf/textstycke
+        a      = länk (href = adress)
+        img    = bild (src = bildlänk, alt = alternativ text)
+        ul     = punktlista (unordered list)
+        ol     = numrerad lista (ordered list)
+        li     = listpunkt (barn till ul/ol)
+        strong = viktig text (semantiskt stark)
+        em     = betonad text
+        div    = generell container/box
+        span   = generell inline-container i text
+    -->
+
+    <!-- Exempel på ett ensamt element med attribut (src, alt, width) -->
+    <img src="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?q=80&w=1772&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Närbild på en person som skriver på sin laptop" width="500">
+
+    <!-- h1 = sidans viktigaste rubrik -->
+    <h1>Karin Lindström</h1>
+    <!-- a = länk, href = vart länken går -->
+    <a href="index.html">Gå till min sida</a>
+
+    <!-- p = paragraf (vanlig text) -->
+    <p>Karin är en fiktiv webbutvecklare och f.d. från Örebro som bytte karriär vid 34 år.</p>
+
+    <!-- h2 = underrubrik under h1 -->
+    <h2>Karriärskiftet</h2>
+    <p>Karin jobbade i tio som bartender innan hon bestämde sig för att lära sig koda på distans.</p>
+
+    <!-- h3 = underrubrik under h2 -->
+    <h3>Från baren till koden</h3>
+    <!-- strong gör text viktig (semantiskt), em markerar betoning -->
+    <p>Karin är <strong>ett bevis på att det aldrig är</strong> för sent <em> att börja om</em>. </p>
+
+    <!-- target="_blank" öppnar länken i ny flik -->
+    <p>Karin är uppvuxen i <a href="https://sv.wikipedia.org/wiki/%C3%96rebro" target="_blank">Örebro</a>.</p>
+
+    <h3>Tekniker hon jobbar med</h3>
+    <!--
+        Parent/child-exempel:
+        - ul är parent till alla li
+        - varje li är child till ul
+    -->
+    <ul>
+        <li>HTML och CSS</li>
+        <li>JavaScript</li>
+        <li>Figma</li>
+    </ul>
+
+</body>
+</html>
