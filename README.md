@@ -43,7 +43,7 @@ Samlade länkar till inspelningar för enkel åtkomst (utöver Discord).
 ## Snabbnavigering
 
 - [Vecka 17 - Intro](./01-vecka-17-intro/README.md)
-- [Vecka 18 - HTML/CSS](./02-vecka-18-html-css/README.md)(Uppdateras senare)
+- [Vecka 18 - HTML/CSS](./02-vecka-18-html-css/README.md)
 - [Vecka 19 - Logik](./03-vecka-19-logik/README.md) (Uppdateras senare)
 - [Vecka 20 - JS grunder](./04-vecka-20-js-grunder/README.md) (Uppdateras senare)
 - [Vecka 21 - JS datastrukturer](./05-vecka-21-js-datastrukturer/README.md) (Uppdateras senare)
