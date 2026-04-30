@@ -11,6 +11,8 @@
 
 ## Lektionsinspelningar
 
+### Tisdag - HTML
+
 - <a href="https://zocom-my.sharepoint.com/:v:/g/personal/linus_ilbratt_zocom_se/IQBZvN1nqR1HS7l2QE8lPwjJAfW2uhMkb7-JnKqtpkIfaNM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PRqPD3" target="_blank" rel="noopener noreferrer">Del 1 - HTML-skelettet (!)</a>
 - <a href="https://zocom-my.sharepoint.com/:v:/g/personal/linus_ilbratt_zocom_se/IQB_g9rwwoWyTrbxsQ70EUJDAfsGhD4xY94Ez7jqz3XBbEQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=J0gdzo" target="_blank" rel="noopener noreferrer">Del 2: Rubrikhierarki, Strong & Em</a>
 - <a href="https://zocom-my.sharepoint.com/:v:/g/personal/linus_ilbratt_zocom_se/IQAnrWVfQgXMS6J51145t8x_AWaKXGMiysYHulHGkBQlrZk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DgimEp" target="_blank" rel="noopener noreferrer">Del 3: Hypertext & Länkar</a>
