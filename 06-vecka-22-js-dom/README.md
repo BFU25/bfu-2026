@@ -1,6 +1,8 @@
 # Miniräknaren
 Du ska bygga en webbapp för en miniräknare.
 
+**Mall från lektionen:** [miniraknare-mall/](./miniraknare-mall/) — färdig HTML/CSS/JS för level 1 (`1`, `2`, `3`, `+`, `C`, `=`). Läs `script.js` med kommentarer och bygg vidare i egen mapp.
+
 ## Beskrivning
 När man laddar webbsidan ska den visa en miniräknare. Kodexempel här: [CodePen designskiss](https://codepen.io/david-zocom/pen/VwOpzEb?editors=1100).
 
